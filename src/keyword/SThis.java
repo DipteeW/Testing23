@@ -10,6 +10,7 @@ public class SThis extends Super1{
 		//int sum = this.a+this.b;              //300
 		int sum= super.a +super.b;
 		System.out.println(sum);
+		System.out.println("hi");
 	}
 	public static void main(String[] args)
 	{
